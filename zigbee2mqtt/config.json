@@ -1,10 +1,10 @@
 {
-  "name": "Zigbee2MQTT",
+  "name": "Zigbee2MQTT (A)",
   "version": "1.33.2-1",
   "slug": "zigbee2mqtt",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "uart": true,
-  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/tree/master/zigbee2mqtt",
+  "url": "https://github.com/ashottonoyan/hassio-zigbee2mqtt/tree/master",
   "startup": "application",
   "services": [
     "mqtt:need"
